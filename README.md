@@ -1,6 +1,6 @@
-![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)
+![Coverage](https://img.shields.io/badge/Coverage-100%25-orange)
 
-# Customer Management System API using Gofr Framework
+# Customer Relationship Management System API using Gofr Framework
 
 API for a Customer relationship management system using Gofr with CRUD operations.
 
